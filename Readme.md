@@ -1,1 +1,1 @@
-this is a share project.
+this is a shared project..
